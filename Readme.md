@@ -12,3 +12,7 @@ This project presents a novel approach for the detection and classification of H
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+Detecting vehicles with High Security Registration Plates (HSRP) is vital for ensuring security and regulatory compliance on roadways. Traditional HSRP detection methods often lack efficiency and struggle to keep up with evolving vehicle registration systems. By leveraging Federated Learning, a privacy-preserving machine learning approach, this project presents a promising solution to this challenge.
