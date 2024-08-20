@@ -51,3 +51,7 @@ The Federated Learning-based classification achieved an accuracy of 91.66% in id
 
 ![yolo](https://github.com/girish0903/HSRP-Detection-and-Classification/blob/main/Picture2.jpg)
 
+### Federated Learning Classification Results
+
+![fl1](https://github.com/girish0903/HSRP-Detection-and-Classification/blob/main/Screenshot%202024-06-12%20133257.png)
+![fl2](https://github.com/girish0903/HSRP-Detection-and-Classification/blob/main/Screenshot%202024-06-12%20133315.png)
