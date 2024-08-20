@@ -5,16 +5,12 @@ This project presents a novel approach for the detection and classification of H
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
   - [YOLOv8 for Number Plate Detection](#yolov8-for-number-plate-detection)
   - [Extracting Detected Number Plates](#extracting-detected-number-plates)
   - [Federated Learning for Classification](#federated-learning-for-classification)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 
 ## Introduction
