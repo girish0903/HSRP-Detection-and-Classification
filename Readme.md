@@ -44,8 +44,8 @@ The extracted number plate images were passed into a Federated Learning setup fo
 
 The results demonstrate the effectiveness of our approach:
 
-The YOLOv8 model achieved an accuracy of XX% in detecting number plates.
-The Federated Learning-based classification achieved an accuracy of YY% in identifying HSRPs.
+The YOLOv8 model achieved an mAP(Mean Average Precision) of 0.993 in detecting number plates.
+The Federated Learning-based classification achieved an accuracy of 91.66% in identifying HSRPs.
 
 ### Object Detection 
 
