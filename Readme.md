@@ -1,6 +1,6 @@
 # High Security Registration Plate Detection and Classification
 
-View the Project Report here : https://github.com/girish0903/HSRP-Detection-and-Classification/blob/main/HSRP%20Report.pdf
+[Click here to view the Project Report](https://github.com/girish0903/HSRP-Detection-and-Classification/blob/main/HSRP%20Report.pdf)
 
 This project presents a novel approach for the detection and classification of High Security Registration Plates (HSRP) on vehicles. The proposed method utilizes object detection to locate HSRPs in images, followed by a classification step to determine if the detected object is an HSRP or not. The system aims to improve vehicle monitoring and public safety while maintaining data privacy.
 
